@@ -171,7 +171,7 @@ section div .final{
     height: 1.2cm;
     border-radius: 4px;
     box-shadow: 0 0 0 0 #5758BB;
-    animation: pulse 1.75s infinite cubic-bezier(0.66, 0, 0, 1);
+    animation: pulse 1s infinite cubic-bezier(0.66, 0, 0, 1);
 }
 
 @keyframes pulse {
