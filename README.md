@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# How professor Utonium had create you ?
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+if you don't know who is professor utonium , he is the professor or the creator of power puff girls tv series . . 
+
+### Sample is available in https://lab1b.github.io/how-utonium-create-you/
 
 ## Available Scripts
 
