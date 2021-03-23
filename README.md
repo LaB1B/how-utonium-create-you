@@ -4,6 +4,8 @@ if you don't know who is professor utonium , he is the professor or the creator 
 
 ### Sample is available in https://lab1b.github.io/how-utonium-create-you/
 
+<img src="./src/pics/project.jpg" alt="screenshot" />
+
 ## Available Scripts
 
 In the project directory, you can run:
