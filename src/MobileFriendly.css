@@ -12,41 +12,52 @@
       box-shadow: 1px 1px 10px 2px #9b59b6 ;
    }
 
-   section div .starting {
-      position: absolute;
-      top: 280px;
-      left: 280px;
-   }
-
-   section div .second {
-      position: absolute;
-      top: 97%;
-   }
-
-   section div .everything {
-      position: absolute;
-      top: 128%;
-      left: 25%;
-   }
-   section div .Stir {
-      position: absolute;
-      top: 165%;
-      left: 18%;
-   }
-   section div .break {
-      position: absolute;
-      top: 191%;
-      left: 15%;
-   }
-   section div .chemical {
-      position: absolute;
-      top: 237%;
-      left: 26%;
-   }
-   section div .final {
-      position: absolute;
-      top: 347%;
-      left: 56%;
+}
+@media only screen and (min-width: 800px) {
+  .input {
+     font-size: .9rem;
+  }
+  nav {
+     font-size: 1rem;
+  }
+   section {
+      margin-top: 30px;
+      display: grid;
+      grid-template-columns: auto auto;
+      box-shadow: 1px 1px 10px 2px #9b59b6 ;
    }
 
 }
+
+@media only screen and (min-width: 1000px) {
+  .input {
+     font-size: .9rem;
+  }
+  nav {
+     font-size: 1rem;
+  }
+   section {
+      margin-top: 30px;
+      display: grid;
+      grid-template-columns: auto auto;
+      box-shadow: 1px 1px 10px 2px #9b59b6 ;
+   }
+
+}
+
+@media only screen and (min-width: 100px) {
+  .input {
+     font-size: .9rem;
+  }
+  nav {
+     font-size: 1rem;
+  }
+   section {
+      margin-top: 30px;
+      display: grid;
+      grid-template-columns: auto auto auto;
+      box-shadow: 1px 1px 10px 2px #9b59b6 ;
+   }
+
+}
+
