@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/how-utonium-create-you/static/css/main.c040bb73.chunk.css",
-    "main.js": "/how-utonium-create-you/static/js/main.643fec14.chunk.js",
-    "main.js.map": "/how-utonium-create-you/static/js/main.643fec14.chunk.js.map",
-    "runtime-main.js": "/how-utonium-create-you/static/js/runtime-main.e6932e73.js",
-    "runtime-main.js.map": "/how-utonium-create-you/static/js/runtime-main.e6932e73.js.map",
+    "main.css": "/how-utonium-create-you/static/css/main.f7928f75.chunk.css",
+    "main.js": "/how-utonium-create-you/static/js/main.452d3a83.chunk.js",
+    "main.js.map": "/how-utonium-create-you/static/js/main.452d3a83.chunk.js.map",
+    "runtime-main.js": "/how-utonium-create-you/static/js/runtime-main.9568db56.js",
+    "runtime-main.js.map": "/how-utonium-create-you/static/js/runtime-main.9568db56.js.map",
     "static/css/2.3f6a4e7d.chunk.css": "/how-utonium-create-you/static/css/2.3f6a4e7d.chunk.css",
-    "static/js/2.c805d36a.chunk.js": "/how-utonium-create-you/static/js/2.c805d36a.chunk.js",
-    "static/js/2.c805d36a.chunk.js.map": "/how-utonium-create-you/static/js/2.c805d36a.chunk.js.map",
-    "static/js/3.808f5e61.chunk.js": "/how-utonium-create-you/static/js/3.808f5e61.chunk.js",
-    "static/js/3.808f5e61.chunk.js.map": "/how-utonium-create-you/static/js/3.808f5e61.chunk.js.map",
+    "static/js/2.75e27e44.chunk.js": "/how-utonium-create-you/static/js/2.75e27e44.chunk.js",
+    "static/js/2.75e27e44.chunk.js.map": "/how-utonium-create-you/static/js/2.75e27e44.chunk.js.map",
+    "static/js/3.5b275feb.chunk.js": "/how-utonium-create-you/static/js/3.5b275feb.chunk.js",
+    "static/js/3.5b275feb.chunk.js.map": "/how-utonium-create-you/static/js/3.5b275feb.chunk.js.map",
     "index.html": "/how-utonium-create-you/index.html",
     "static/css/2.3f6a4e7d.chunk.css.map": "/how-utonium-create-you/static/css/2.3f6a4e7d.chunk.css.map",
-    "static/css/main.c040bb73.chunk.css.map": "/how-utonium-create-you/static/css/main.c040bb73.chunk.css.map",
-    "static/js/2.c805d36a.chunk.js.LICENSE.txt": "/how-utonium-create-you/static/js/2.c805d36a.chunk.js.LICENSE.txt",
+    "static/css/main.f7928f75.chunk.css.map": "/how-utonium-create-you/static/css/main.f7928f75.chunk.css.map",
+    "static/js/2.75e27e44.chunk.js.LICENSE.txt": "/how-utonium-create-you/static/js/2.75e27e44.chunk.js.LICENSE.txt",
     "static/media/boom.jpg": "/how-utonium-create-you/static/media/boom.56bb512b.jpg",
     "static/media/chciamnl.jpg": "/how-utonium-create-you/static/media/chciamnl.5827d91f.jpg",
     "static/media/chemical x.jpg": "/how-utonium-create-you/static/media/chemical x.d280c202.jpg",
@@ -25,10 +25,10 @@
     "static/media/waking.jpg": "/how-utonium-create-you/static/media/waking.410f05bc.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e6932e73.js",
+    "static/js/runtime-main.9568db56.js",
     "static/css/2.3f6a4e7d.chunk.css",
-    "static/js/2.c805d36a.chunk.js",
-    "static/css/main.c040bb73.chunk.css",
-    "static/js/main.643fec14.chunk.js"
+    "static/js/2.75e27e44.chunk.js",
+    "static/css/main.f7928f75.chunk.css",
+    "static/js/main.452d3a83.chunk.js"
   ]
 }
