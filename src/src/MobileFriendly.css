@@ -1,19 +1,114 @@
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 850px) {
   .input {
      font-size: .9rem;
   }
   nav {
      font-size: 1rem;
   }
+  h2 {
+     font-size: 1.3rem;
+  }
    section {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
       margin-top: 30px;
+      height: 400vh;
       display: grid;
       grid-template-columns: auto;
       box-shadow: 1px 1px 10px 2px #9b59b6 ;
    }
+   
+   
 
 }
-@media only screen and (min-width: 800px) {
+@media only screen and (max-width: 400px) {
+  .input {
+     font-size: .9rem;
+  }
+  nav {
+     font-size: 1rem;
+  }
+  h2 {
+     font-size: 1.2rem;
+  }
+   section {
+      width: 80vw;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-around;
+      
+      
+      margin-top: 30px;
+      margin-left: 10px;
+      max-height: 350vh;
+      display: grid;
+      grid-template-columns: auto;
+      box-shadow: 1px 1px 10px 2px #9b59b6 ;
+   }
+   section img {
+      margin-left: 50px;
+      width: 300px;
+      height: 200px;
+   }
+
+   section div .starting{
+  margin : -35px 0px 0px 125px ;
+  font-size: .9rem;
+  font-weight: bold;
+  color: #0e0e0e;
+  font-family: consolas;
+  transform: rotateZ(74deg);
+}
+   
+section div .Stir{
+  margin: -40px 0px 0px 60px;
+  font-size: 1.4rem;
+  font-weight: bold;
+  font-family: consolas;
+  color: #c4c2c2;
+  letter-spacing: 4px;
+  transform: rotateZ(20deg);
+}
+
+section div .break{
+  margin : -40% 0px 0px 45px;
+  font-size: 1.5rem;
+  font-weight: bold;
+  font-family: consolas;
+  color: #c4c2c2;
+  letter-spacing: 4px;
+  
+}
+
+section div .chemical{
+  margin: -35% 0px 0px 65px;
+  font-size: 1.9rem;
+  text-shadow: 1px 1px rgb(197, 134, 134);
+  font-family: consolas;
+  color: #222222;
+  letter-spacing: 4px;
+  font-family: 'Eater', cursive;
+
+  
+}
+
+section div .final{
+  margin: -170px 0px 0px 200px;
+  font-size: 1.6rem;
+  font-family: consolas;
+  color: #222222;
+  letter-spacing: 4px;
+
+  
+}
+.toast {
+  
+  width: 50vw;
+}
+
+}
+@media only screen and (min-width: 851px) {
   .input {
      font-size: .9rem;
   }
@@ -22,6 +117,11 @@
   }
    section {
       margin-top: 30px;
+      margin-left: -10px;
+      display: flex;
+      justify-content: space-around;
+      width: 100vw;
+      height: 35cm;
       display: grid;
       grid-template-columns: auto auto;
       box-shadow: 1px 1px 10px 2px #9b59b6 ;
@@ -29,7 +129,7 @@
 
 }
 
-@media only screen and (min-width: 1000px) {
+@media only screen and (min-width: 1200px) {
   .input {
      font-size: .9rem;
   }
@@ -37,26 +137,16 @@
      font-size: 1rem;
   }
    section {
-      margin-top: 30px;
+      margin: 3%;
+      margin-left: 10%;
+      width: 78vw;
+      height: 20cm;
       display: grid;
-      grid-template-columns: auto auto;
-      box-shadow: 1px 1px 10px 2px #9b59b6 ;
-   }
-
-}
-
-@media only screen and (min-width: 100px) {
-  .input {
-     font-size: .9rem;
-  }
-  nav {
-     font-size: 1rem;
-  }
-   section {
-      margin-top: 30px;
-      display: grid;
+      box-shadow: -4px -5px 15px 3px #9b59b6;
+      background-color: transparent;
+      border-radius: 10px;
+      padding: 15px;
       grid-template-columns: auto auto auto;
-      box-shadow: 1px 1px 10px 2px #9b59b6 ;
    }
 
 }
